@@ -1,0 +1,36 @@
+title = "Dora Costa"
+baseURL = "/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Paralimni, Cyprus"
+email = "doraspanashi@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Dora"
+lastName = "Costa"
+phone = "00 357 99635699"
+profileImage = "img/TechChat.png"
+showQr = false
+showContact = true
+sections = ["experience","education","blog"]
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/doraspanashi/"
+name = "LinkedIn"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

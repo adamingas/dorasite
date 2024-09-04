@@ -1,14 +1,20 @@
 [
-    {
-        "role":"Counseling Services",
-        "company":"Private Practice",
-        "summary":"Provided counseling services to individuals, couples, and families using CBT.",
-        "range":"April 1992 - August 2010"
-    },
 {
         "role":"Special Education Teacher Psychologist",
-        "company":"Ministry of Education",
-        "summary":"",
+        "company":"Department of Education",
+        "summary":"Special Education Department. Teacher & Psychologist position for children with special needs emotionally and educationally. My major duties are to co-operating with teachers, parents, speech therapist and teachers to organize and implement individual educational programs. My personal goals for Children with special needs is to provide them with the necessary support and resources to reach their full potential and lead fulfilling and meaningful lives in all respects.",
         "range":"September 2010 - June 2024"
+    },
+    {
+        "role":"Counselling Psychologist",
+        "company":"Private Practice",
+        "summary":"Provided counseling services to individuals, couples, and families.",
+        "range":"April 1992 - August 2010"
+    },
+    {
+        "role":"Counselling Psychologist",
+        "company":"Cyprus Family Planning Organization",
+        "summary":"Helped people make decisions about their family planning, their relationships, adopting children etc.",
+        "range":"1991-1992"
     }
 ]

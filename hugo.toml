@@ -17,7 +17,7 @@ phone = "00 357 99635699"
 profileImage = "img/TechChat.png"
 showQr = false
 showContact = true
-sections = ["experience","education","blog", "volunteering"]
+sections = ["experience","education", "volunteering","blog"]
 
 
 [params.google]

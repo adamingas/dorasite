@@ -1,7 +1,22 @@
 [
-    {
-        "organisation":"University of New South Wales, Australia",
-        "notes":"",
-        "time_range":"1987"
-    }
+  {
+    "organisation": "Cyprus organization of ADHD",
+    "notes": "Scientific associate: organizing and leading adult and parent groups with children with ADHD, giving seminars and lectures",
+    "time_range": "2003-until today"
+  },
+  {
+    "organisation": "Diabetic Association of Famagusta",
+    "notes": "Group leader of self-help groups for diabetic people",
+    "time_range": "2010-2013"
+  },
+  {
+    "organisation": "Centre for Information and Treatment of Addicted Persons (Kenthea)",
+    "notes": "Member of the Scientific Board: Organizer of informative workshops and seminars for parents and teenagers about addiction in Ammochostos",
+    "time_range": "1998-2005"
+  },
+  {
+    "organisation": "Youth Organization of Cyprus",
+    "notes": "Addiction Counselor for users and family members",
+    "time_range": "1990-1992"
+  }
 ]

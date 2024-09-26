@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Paralimni, Cyprus"
+address = "Paralimni/Nicosia, Cyprus"
 email = "doraspanashi@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Dora"

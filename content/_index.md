@@ -9,9 +9,4 @@ outputs:
 - rss
 - json
 ---
-I provide a safe and supportive environment for clients to explore their emotions, learn coping skills, and develop strategies to improve their lives. Provided counselling for Parenting, Relationships, Addictions, Anger, Stress, Couples, and Crisis management. I run programs for ADHD adult coaching and psycho-education for parents.
-
-My therapies are based on Cognitive and Behavioral approach (CBT). I use principles from cognitive, positive and systemic psychology , mindfulness and personal coaching.
-
-I can counsel in Greek and English, in person or on-line.
-Professional License no. 139
+I am a consulting psychologist providing a safe and supportive environment for individuals to explore their emotions and develop coping skills. With expertise in counseling for parenting, relationships, addiction, and crisis management, as well as ADHD coaching and psycho-education. My therapies are based on cognitive behavioural therapy (CBT), which I complement with principles of cognitive, and positive psychology approaches as well as mindfulness practices and personal coaching. Services are offered in Greek and English, both in-person and online.

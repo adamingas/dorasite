@@ -14,10 +14,10 @@ favicon = "/favicon.ico"
 firstName = "Dora"
 lastName = "Costa"
 phone = "00 357 99635699"
-profileImage = "img/TechChat.png"
+profileImage = "img/profile.jpg"
 showQr = false
 showContact = true
-sections = ["experience","education", "volunteering","blog"]
+sections = ["approach", "services","experience","education", "volunteering","blog"]
 
 
 [params.google]
@@ -34,3 +34,10 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+

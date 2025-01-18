@@ -9,4 +9,6 @@ outputs:
 - rss
 - json
 ---
-I am a consulting psychologist providing a safe and supportive environment for individuals to explore their emotions and develop coping skills. With expertise in counseling for parenting, relationships, addiction, and crisis management, as well as ADHD coaching and psycho-education. My therapies are based on cognitive behavioural therapy (CBT), which I complement with principles of cognitive, and positive psychology approaches as well as mindfulness practices and personal coaching. Services are offered in Greek and English, both in-person and online.
+Psychotherapy is a journey of self-discovery, through which you uncover your true self and your strengths, reaching your "Ithaca" with a sense of calm and fulfillment for all that you have learned along the way. 
+{class="quote mt-3"}
+

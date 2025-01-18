@@ -1,15 +1,17 @@
 [
     {
         "school":"University of New South Wales, Australia",
-        "degree":"Bachelor of Science",
-        "major":"Psychology",
-        "range":"1987"
+        "degree":"Bachelor of Science in Psychology",
+        "range":"1983-1987"
     },
     {
         "school":"Sydney College of Education",
-        "degree":"Graduate diploma",
-        "major":"Education",
-        "notes":"Diploma for teaching Health and Personal Development as well as Modern Greek.",
+        "degree":"Graduate diploma in Education",
         "range":"1988"
+    },
+    {
+        "school":"Department of Health New South Wales, Australia",
+        "degree":"Counselling Residency for Drug and Alcoho Addiction",
+        "range":"1989"
     }
 ]

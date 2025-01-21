@@ -1,5 +1,5 @@
 title = "Dora Costa"
-baseURL = "./"
+baseURL = "https://doracosta.info/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true

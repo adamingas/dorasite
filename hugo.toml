@@ -16,14 +16,15 @@ lastName = "Costa"
 phone = "00 357 99635699"
 profileImage = "img/profile_scaled.jpg"
 showQr = false
-showContact = true
+showContact = false
 sections = ["approach", "services","experience","education", "volunteering","blog"]
+description="Dora Costa, a counselling psychologist in Paralimni, Cyprus, offers in-person and online sessions. Specializing in CBT, ADHD support, and addiction counselling, she helps individuals, couples, and families build resilience and achieve personal growth."
 
 
 [params.google]
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerID = "G-12HK6J0N0Z"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/doraspanashi/"

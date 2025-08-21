@@ -9,6 +9,7 @@ outputs:
 - rss
 - json
 ---
+{{< langswitcher >}}
 Psychotherapy is a journey of self-discovery, through which you uncover your true self and your strengths, reaching your "Ithaca" with a sense of calm and fulfillment for all that you have learned along the way. 
 {class="quote mt-3"}
 

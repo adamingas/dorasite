@@ -1,0 +1,29 @@
+[home]
+other = "Αρχική"
+
+[experience]
+other = "Εμπειρία"
+
+[education]
+other = "Εκπαίδευση"
+
+[services]
+other = "Υπηρεσίες"
+
+[approach]
+other = "Προσέγγιση"
+
+[volunteering]
+other = "Εθελοντισμός"
+
+[blog]
+other = "Ιστολόγιο"
+
+[contact]
+other = "Επικοινωνία"
+
+[read_more]
+other = "Περισσότερα"
+
+[language]
+other = "Γλώσσα"

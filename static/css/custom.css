@@ -1,0 +1,8 @@
+/* Increase home profile image size slightly on mobile */
+@media (max-width: 450px) {
+  /* Target the profile image */
+  img[src*="profile_scaled.jpg"] {
+    width: 120px !important;
+    height: 120px !important;
+  }
+}

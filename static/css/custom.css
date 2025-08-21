@@ -1,8 +1,13 @@
 /* Increase home profile image size slightly on mobile */
-@media (max-width: 450px) {
-  /* Target the profile avatar in the resume theme */
-  .profile img, .site-profile img {
-    width: 120px !important;
-    height: 120px !important;
+@media (max-width: 480px) {
+  /* Try common wrappers used in resume themes and fallback to src selector */
+  .profile img,
+  .site-profile img,
+  .avatar,
+  .avatar img,
+  img[src*="profile_scaled.jpg"] {
+    width: 140px !important;
+    height: 140px !important;
+    border-radius: 50% !important;
   }
 }

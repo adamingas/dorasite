@@ -1,1 +1,0 @@
-<nav class="lang-switcher" style="margin: 1rem 0;">{{- range .Site.Home.AllTranslations -}}{{- $isCurrent := eq .Language.Lang $.Site.Language.Lang -}}<a href="{{ .RelPermalink }}" style="margin-right: .75rem; {{ if $isCurrent }}font-weight:bold; text-decoration:underline;{{ end }}">{{ .Language.LanguageName }}</a>{{- end -}}</nav>

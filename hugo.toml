@@ -6,8 +6,6 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
 
 [params]
 address = "Paralimni/Nicosia, Cyprus"
@@ -44,19 +42,4 @@ tag = "tags"
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
         block = true
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    weight = 1
-    title = "Dora Costa"
-    [languages.en.params]
-      description = "Dora Costa, a counselling psychologist in Paralimni, Cyprus, offers in-person and online sessions. Specializing in CBT, ADHD support, and addiction counselling, she helps individuals, couples, and families build resilience and achieve personal growth."
-
-  [languages.el]
-    languageName = "Ελληνικά"
-    weight = 2
-    title = "Ντόρα Κόστα"
-    [languages.el.params]
-      description = "Η Ντόρα Κόστα, συμβουλευτική ψυχολόγος στο Παραλίμνι, Κύπρος, προσφέρει συνεδρίες δια ζώσης και διαδικτυακά. Ειδικεύεται στη ΓΣΘ (CBT), στην υποστήριξη για ΔΕΠ-Υ και στη συμβουλευτική εξαρτήσεων, βοηθώντας άτομα, ζευγάρια και οικογένειες να αναπτύξουν ανθεκτικότητα και να επιτύχουν προσωπική ανάπτυξη."
 

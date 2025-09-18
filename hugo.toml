@@ -19,7 +19,6 @@ showQr = false
 showContact = false
 sections = ["approach", "services","experience","education", "volunteering","blog"]
 description="Dora Costa, a counselling psychologist in Paralimni, Cyprus, offers in-person and online sessions. Specializing in CBT, ADHD support, and addiction counselling, she helps individuals, couples, and families build resilience and achieve personal growth."
-customCSS = ["css/custom.css"]
 
 
 [params.google]
